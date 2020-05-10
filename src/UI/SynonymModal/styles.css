@@ -1,0 +1,11 @@
+.modal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.modal label, 
+.modal select{
+    margin-bottom: 15px;
+}
